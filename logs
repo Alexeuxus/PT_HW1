@@ -1,0 +1,97 @@
+[33mcommit 7dc80474f34eb8ee53c57356f5ec94cea391b9b9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 382ffb1 3cd6af9
+Author: Alexeuxus <Drago2111@yandex.ru>
+Date:   Sun Sep 28 17:42:32 2025 +0300
+
+    resolved merging conflicts
+
+[33mcommit 382ffb1e5a7ee665bf27f776d96a4a58488e5a17[m
+Author: Alexeuxus <Drago2111@yandex.ru>
+Date:   Sun Sep 28 17:40:16 2025 +0300
+
+    added retarted string in main
+
+[33mcommit 3cd6af921f09abbd9d82f848b4590b3a94a174a8[m[33m ([m[1;31morigin/test[m[33m, [m[1;32mtest[m[33m)[m
+Author: Alexeuxus <Drago2111@yandex.ru>
+Date:   Sun Sep 28 17:39:16 2025 +0300
+
+    now more retarted string in main
+
+[33mcommit d038fea945addabd21ec053a172dc7a076151ea8[m
+Merge: 3cd894a a993980
+Author: Alexeuxus <Drago2111@yandex.ru>
+Date:   Sun Sep 28 17:35:42 2025 +0300
+
+    Fixed conflicts while merging
+
+[33mcommit a9939806a2c212f77c0d6c23e100328236f29175[m
+Author: Alexeuxus <Drago2111@yandex.ru>
+Date:   Sun Sep 28 17:31:05 2025 +0300
+
+    Added string in main for branch test
+
+[33mcommit 3cd894aca4c35090e6a964f479b807fa8c9e0751[m
+Author: Alexeuxus <Drago2111@yandex.ru>
+Date:   Sun Sep 28 17:30:10 2025 +0300
+
+    Added string in main
+
+[33mcommit d78344c0d76603a18333bfcbade51db22e6fba57[m
+Author: Alexeuxus <Drago2111@yandex.ru>
+Date:   Sun Sep 28 17:28:22 2025 +0300
+
+    Added multi print in main
+
+[33mcommit 581fc8e4ad6fd0728ff008c8ccfaf2204e790598[m[33m ([m[1;31morigin/NuzhdinAP[m[33m, [m[1;32mNuzhdinAP[m[33m)[m
+Author: Alexeuxus <Drago2111@yandex.ru>
+Date:   Sun Sep 28 15:21:22 2025 +0300
+
+    Deleted test file
+
+[33mcommit f12cf26e3e7189f04d597cefd5807d4ca7ca43df[m
+Author: Alexeuxus <Drago2111@yandex.ru>
+Date:   Sun Sep 28 15:18:01 2025 +0300
+
+    Added test file for testing diff between branches
+
+[33mcommit bb8f8c74327e90a976e06495fdadd393ff28af22[m
+Author: Alexeuxus <Drago2111@yandex.ru>
+Date:   Sat Sep 27 22:43:32 2025 +0300
+
+    Changed mult to div in main.py
+
+[33mcommit 894af65522ee03f78d5a4f075891abf8d0894891[m
+Author: Alexeuxus <Drago2111@yandex.ru>
+Date:   Sat Sep 27 22:37:03 2025 +0300
+
+    Added print in main
+
+[33mcommit 7880d096ed886c738e46a7ee2ab375b474d64fe6[m
+Author: Alexeuxus <Drago2111@yandex.ru>
+Date:   Sat Sep 27 22:33:45 2025 +0300
+
+    Added .gitignore
+
+[33mcommit 5da5af4d94b0719412c84f31b6a460812d21f3d0[m
+Author: Alexeuxus <Drago2111@yandex.ru>
+Date:   Sat Sep 27 20:34:32 2025 +0300
+
+    Added code in main
+
+[33mcommit ab6bb6b341564170f48ed2ce89db7957ec0436a3[m
+Author: Alexeuxus <Drago2111@yandex.ru>
+Date:   Sat Sep 27 20:30:18 2025 +0300
+
+    Created new python project
+
+[33mcommit 02815166aad515817379c29821aa54cde991b4b8[m
+Author: Alexeuxus <Drago2111@yandex.ru>
+Date:   Sat Sep 27 20:23:08 2025 +0300
+
+    Added readme file for branch
+
+[33mcommit 683a725ffe2538ad0f471dca8c143d75c37df784[m
+Author: Alexeuxus <Drago2111@yandex.ru>
+Date:   Sat Sep 27 20:17:54 2025 +0300
+
+    Added readme
