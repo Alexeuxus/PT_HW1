@@ -3,4 +3,4 @@ num1 = int(input())
 num2 = int(input())
 print('Деление равно:', num1 / num2)
 print('Умножение равно:', num1 * num2)
-a = 'Не учите таблицу умножений'
+a = 'ля ля'
